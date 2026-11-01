@@ -10,7 +10,7 @@ Users that apply to a myriad of internships may lose track of where they applied
 
 Essentially, JobPinger has five main commands that it runs. These commands allow the user to add/edit entries, list all entries, and also have JobPinger output to them the most pressing entries that have due dates coming quite soon. There is also a command run by Bash every day to check for deadlines upcoming in the next x amount of days (default is 14), and it sends a push notification to the user's phone.
 
-![System diagram](docs/JobPinger Flowchart.png)
+![System diagram](docs/JobPinger-Flowchart.png)
 
 ## Tech Stack
 
