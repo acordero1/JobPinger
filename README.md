@@ -21,9 +21,6 @@ Essentially, JobPinger has five main commands that it runs. These commands allow
 
 ## Setup
 
-Step-by-step: how does someone who just cloned your repo get it
-running?
-
 ```bash
 git clone https://github.com/acordero1/JobPinger.git
 cd JobPinger
