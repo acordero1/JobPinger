@@ -16,7 +16,8 @@ Essentially, JobPinger has five main commands that it runs. These commands allow
 
 - **Language:** Bash.
 - **Tools:** grep, sort, awk, cron (for running the deadline check every day), date, curl, case (for the actual script), etc.
-- **External tools:** ntfy for push notifications
+- **Data Storage:** txt file.
+- **External tools:** ntfy for push notifications.
 
 ## Setup
 
